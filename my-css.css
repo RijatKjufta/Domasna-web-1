@@ -1,0 +1,112 @@
+.left-header{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(250, 62, 62);
+}
+.right-img-header{
+    
+
+}
+.slide{
+    height: 500px;
+}
+.white-logo{
+    margin-top: 13em;
+    margin-left: 3em;
+}
+.video-img{
+
+}
+.background-style{
+    background-color: rosybrown;
+    margin-left: 0;
+}
+.img-cheef-1{
+    width: 300px;
+    border: 1px solid black p-3;
+}
+.img-cheef-2{
+    width: 300px;
+}
+
+
+.img-cheef-3{
+    width: 300px;
+
+}
+.borders{
+    border: 1px solid black;
+    justify-content: center;
+    text-align: center;
+    height: 372px;
+}
+.backgrond-black-section{
+    background-color: #cabfbf !important;
+}
+.background-left{
+background-color: blanchedalmond;
+width: 100%;
+height: 200px;
+}
+.background-right{
+    background-color: blanchedalmond;
+    width: 100%;
+    height: 200px;
+}
+.contact{
+    color: red;
+    margin-left: 4em;
+    margin-top: -6em;
+}
+.big-text{
+    margin-top: -3em;
+    margin-left: 2em;
+}
+.para-small{
+    margin-top: -2em;
+    margin-left: 3em;
+}
+.cover-1{
+    background: white;
+    border-radius: 7px;
+    margin-left: 0em;
+    justify-content: center;
+    max-width: 40% !important;
+    margin-left: 4em;
+    padding: 3em;
+}
+.cover-2{
+    background: white;
+    border-radius: 7px;
+    margin-left: 0em;
+    justify-content: center;
+    max-width: 40% !important;
+    margin-left: 2em;
+    padding: 3em;
+}
+.reservation{
+    margin-left: 6em;
+}
+.form-custom{
+    border-radius: 5px;
+    padding: 7px;
+    margin-bottom: 2em;
+}
+.message{
+    width: 85%;
+    height: 125px;
+    border-radius: 8px;
+}
+.placeholder{
+float: left !important;
+margin-top: 1px !important;
+}
+.background-custom-order{
+
+}
+@media (max-width:460px) {
+  .form-custom{
+      width: 100%;
+      margin-left: 3em;
+  }
+ }
